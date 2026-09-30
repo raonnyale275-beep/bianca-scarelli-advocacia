@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bianca-scarelli.raonnyale275.workers.dev/sitemap.xml

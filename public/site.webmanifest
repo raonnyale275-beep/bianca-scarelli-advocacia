@@ -1,0 +1,19 @@
+{
+  "name": "Scarelli Advocacia Empresarial",
+  "short_name": "Scarelli Advocacia",
+  "description": "Advocacia empresarial estratégica em Bauru-SP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a2b57",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "200x215",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "legal"],
+  "lang": "pt-BR"
+}
